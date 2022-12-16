@@ -2,7 +2,7 @@
 
 # Dead simple reverse shell example
 
-Usss node.js exec() for reverseShell lolbins present at Azure Functions, (bash could be also used, but I had one of the lolbins ready from previous example)
+Uses node.js exec() for reverseShell lolbins present at Azure Functions, (bash could be also used, but I had one of the lolbins ready from previous example)
 
 [``/rce/index.js``](/rce/index.js)
 
